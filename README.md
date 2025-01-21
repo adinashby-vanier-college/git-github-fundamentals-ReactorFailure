@@ -1,7 +1,7 @@
 # :wave: The Basics of GitHub 
 
 ## Test commit
-This is a test commit
+This is a test commit. Pee pee poo poo.
 
 ## 🤓 Course overview and learning outcomes 
 
